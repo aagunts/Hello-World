@@ -1,4 +1,4 @@
 <?php
 	echo "Hello World!";
-	echo "‚±‚É‚á‚È‚¿‚í[";
+	echo "ã‚ã‚ã‚";
 ?>
